@@ -1,4 +1,5 @@
-# SYNAPSE-SWARM: Autonomous Self-Improving Multi-Agent System via Meta-Cognitive Reflection
+# Self Improving Multi-Agentic System - SYNAPSE-SWARM
+## Autonomous Self-Improving Multi-Agent Architecture via Meta-Cognitive Reflection
 **Academic Project Report | Department of Multidisciplinary Management & AI Systems**
 **Author:** Student Engineering Team | **Evaluation Date:** November 02, 2026
 **System Identification:** Project SYNAPSE-SWARM v1.0.0 (GSD Certified)
